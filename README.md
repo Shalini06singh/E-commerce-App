@@ -20,12 +20,16 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot] (https://drive.google.com/file/d/1vQBbj1Ldq09BA2bh3Y2LNiKtWfn_Zfs0/view?usp=sharing)
+![Screenshot 2024-03-31 093326](https://github.com/Shalini06singh/E-commerce-App/assets/131110991/e93e2ffa-7d91-4206-8245-d31086cd40e3)
 
-![Authentication Screenshot] (https://drive.google.com/file/d/1OcoJCFfuBApIrrtsDtcbV-BLqshYKAPv/view?usp=sharing)
 
-![Firebase Data Screenshot] (https://drive.google.com/file/d/15It46zqFKVfrbBcVGPqpCTsrn8cm1qoi/view?usp=sharing)
+![Screenshot 2024-03-31 093449](https://github.com/Shalini06singh/E-commerce-App/assets/131110991/27e2af6d-fa85-482b-8af4-ae2325c802fe)
 
-![Cart Screenshot] (https://drive.google.com/file/d/10BbrzrPBQFpmCXafXDQcXiBKjgaCP_9C/view?usp=sharing)
+
+![Screenshot 2024-03-31 093406](https://github.com/Shalini06singh/E-commerce-App/assets/131110991/041bf90c-0b93-4404-9155-8ae3cc1e948c)
+
+
+![Screenshot 2024-03-31 093427](https://github.com/Shalini06singh/E-commerce-App/assets/131110991/0fbffdcc-982e-4236-82bb-177e1737a52f)
+
 
 
