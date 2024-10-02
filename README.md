@@ -3,6 +3,8 @@
 Developed and implemented essential e-commerce functionalities from scratch , including search, add-to-cart, checkout and remove-from-cart features with proper authentication.
 
 
+Project Link: https://assignment-puce-xi.vercel.app/
+
 
 ## Demo
 
